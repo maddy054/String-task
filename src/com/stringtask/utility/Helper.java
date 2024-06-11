@@ -1,5 +1,5 @@
-package helper;
-import invalidexception.InputInvalidException;
+package com.stringtask.utility;
+import com.stringtask.exceptions.InputInvalidException;
 
 public class Helper{
 	

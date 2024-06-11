@@ -1,6 +1,6 @@
-package stringoperation;
-import invalidexception.InputInvalidException;
-import helper.Helper;
+package com.stringtask.logics;
+import com.stringtask.exceptions.InputInvalidException;
+import com.stringtask.utility.Helper;
 
 public class StringTask{
 

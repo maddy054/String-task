@@ -1,9 +1,11 @@
-package stringtest;
-import stringoperation.StringTask;
-import invalidexception.InputInvalidException;
+package com.stringtask.tester;
 import java.util.Scanner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
+
+import com.stringtask.exceptions.InputInvalidException;
+import com.stringtask.logics.StringTask;
+
 import java.util.Arrays;
 
 public class StringExecution{
